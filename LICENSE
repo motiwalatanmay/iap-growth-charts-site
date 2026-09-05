@@ -1,0 +1,24 @@
+Copyright (c) 2026 Dr. Tanmay Motiwala / Swasthya Saathi. All rights reserved.
+
+This software — the growth-charts tool ("the Software"), including its source
+code, compiled bundles, user interface, and audited clinical calculation engine
+— is proprietary. It is published for use by Dr. Tanmay Motiwala and authorised
+Swasthya Saathi camp staff at the official deployment URLs only.
+
+You MAY NOT, without prior written permission from the copyright holder:
+  - copy, mirror, re-host, or redistribute the Software or any bundle of it;
+  - use it to operate a competing or public growth-screening service;
+  - remove or alter this notice, the in-app attribution, or the origin check.
+
+Permitted: viewing and personal, non-commercial evaluation.
+
+Reference data note: the WHO Child Growth Standards (2006) and IAP 2015 growth
+references embedded here are public-domain scientific data and are not claimed as
+proprietary. This licence covers the Software — the engine, interface, and
+packaging — not those underlying reference tables.
+
+No warranty. The Software is provided "as is". It is engineering validation, not
+a clinical certification, and is not a substitute for professional medical
+judgement. The copyright holder is not liable for any use of it.
+
+Contact: motiwalatanmay0@gmail.com
